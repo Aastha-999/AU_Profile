@@ -5,9 +5,15 @@ Hi, I'm a Data Science student with a passion for turning data into actionable i
 ## Contact Information
 
 🎓 *Education:*  BCA in Artificial Intelligence and Data Science  
+
 💼 *University:* Poornima University (2023-2026)
+
 🌍 *Location:* Jaipur,Rajasthan
+
 💻 *Tech Stack:* Python | R | Git
+
 📬 *Email:* aasthajain005@gmail.com 
+
 🔗 *LinkedIn:* Linkedin.com/in/aastha-jain936
+
 🌐 *Github:* gitHub.com/Aastha-999
