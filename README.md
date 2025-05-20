@@ -14,6 +14,6 @@ Hi, I'm a Data Science student with a passion for turning data into actionable i
 
 📬 *Email:* aasthajain005@gmail.com 
 
-🔗 *LinkedIn:* Linkedin.com/in/aastha-jain936
+🔗 *LinkedIn:* https://Linkedin.com/in/aastha-jain936
 
-🌐 *Github:* gitHub.com/Aastha-999
+🌐 *Github:* https://github.com/Aastha-999
