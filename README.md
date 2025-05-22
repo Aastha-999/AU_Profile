@@ -2,7 +2,7 @@
 
 Hi, My name is Aastha Jain, an enthusiastic and a passion for turning data into actionable insights. I'm skilled in Python and I love exploring data through real-world projects. Currently learning and growing through academic work, side projects, and open-source contributions.
 
-## Contact Information
+## Education & Contact Information
 
 🎓 *Education:*  BCA in Artificial Intelligence and Data Science  
 
