@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm a Data Science student with a passion for turning data into actionable insights. I'm skilled in Python and I love exploring data through real-world projects. Currently learning and growing through academic work, side projects, and open-source contributions.
+Hi, My name is Aastha Jain, an enthusiastic and a passion for turning data into actionable insights. I'm skilled in Python and I love exploring data through real-world projects. Currently learning and growing through academic work, side projects, and open-source contributions.
 
 ## Contact Information
 
@@ -10,7 +10,7 @@ Hi, I'm a Data Science student with a passion for turning data into actionable i
 
 🌍 *Location:* Jaipur,Rajasthan
 
-💻 *Tech Stack:* Python | R | Git
+💻 *Tech Stack:* Python | R | Git | Jupyter Notebook
 
 📬 *Email:* aasthajain005@gmail.com 
 
